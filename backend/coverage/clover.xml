@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1771844392764" clover="3.2.0">
+  <project timestamp="1771844392764" name="All files">
+    <metrics statements="54" coveredstatements="53" conditionals="19" coveredconditionals="17" methods="15" coveredmethods="14" elements="88" coveredelements="84" complexity="0" loc="54" ncloc="54" packages="1" files="2" classes="2"/>
+    <file name="ai.js" path="/home/ubuntu/.openclaw/workspace/clawbot-demo/backend/src/ai.js">
+      <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="35" count="11" type="stmt"/>
+      <line num="37" count="11" type="stmt"/>
+      <line num="38" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="11" type="stmt"/>
+      <line num="44" count="11" type="stmt"/>
+      <line num="46" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="52" count="9" type="stmt"/>
+      <line num="55" count="2" type="stmt"/>
+    </file>
+    <file name="store.js" path="/home/ubuntu/.openclaw/workspace/clawbot-demo/backend/src/store.js">
+      <metrics statements="38" coveredstatements="37" conditionals="7" coveredconditionals="5" methods="14" coveredmethods="13"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="32" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="44" count="6" type="stmt"/>
+      <line num="48" count="7" type="stmt"/>
+      <line num="54" count="7" type="stmt"/>
+      <line num="55" count="7" type="stmt"/>
+      <line num="56" count="7" type="stmt"/>
+      <line num="60" count="2" type="stmt"/>
+      <line num="61" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="73" count="9" type="stmt"/>
+      <line num="77" count="26" type="stmt"/>
+      <line num="86" count="3" type="stmt"/>
+      <line num="89" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="90" count="3" type="stmt"/>
+      <line num="97" count="3" type="stmt"/>
+      <line num="98" count="3" type="stmt"/>
+      <line num="99" count="3" type="stmt"/>
+      <line num="100" count="3" type="stmt"/>
+      <line num="104" count="2" type="stmt"/>
+      <line num="105" count="2" type="stmt"/>
+      <line num="106" count="2" type="stmt"/>
+      <line num="107" count="2" type="stmt"/>
+      <line num="111" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,31 @@
+{
+  "name": "clawbot-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "socket.io-client": "^4.7.2",
+    "lucide-react": "^0.279.0",
+    "recharts": "^2.8.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/jest-dom": "^6.1.3",
+    "@testing-library/user-event": "^14.5.1",
+    "jsdom": "^22.1.0",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.6"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage"
+  }
+}
